@@ -266,9 +266,3 @@ chat-tasks-app/
 - Mobile app version
 - Group chat rooms
 - Todo sharing and collaboration
-
----
-
-## License
-
-This project is licensed under the MIT License.
