@@ -1,3 +1,4 @@
+// readme
 # Chat & Tasks Application
 
 A full-stack web application where users can register, authenticate, chat in real-time, and manage their todo lists. This README is humanized and aligned with the actual dependencies found in the repo (Express, Sequelize with MySQL/SQLite, JWT, bcrypt, React, Vite, Tailwind).
